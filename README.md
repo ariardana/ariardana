@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ariardana
+- 👀 I’m interested in Web Programming
+- 🌱 I’m currently learning JavaScript, Python, and PHP
