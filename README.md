@@ -69,8 +69,8 @@ const developer = {
 
 ```text
 JavaScript   12 hrs 30 mins  ████████████████████░   80.0%
-TypeScript       2 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░   15.0%
-Python   45 mins         ██░░░░░░░░░░░░░░░░░░░    5.0%
+TypeScript   2 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░   15.0%
+Python       45 mins         ██░░░░░░░░░░░░░░░░░░░    5.0%
 ```
 
 
@@ -79,7 +79,7 @@ Python   45 mins         ██░░░░░░░░░░░░░░░░�
 
 <div align="center">
   
-  ⭐️ From ariardn (https://github.com/ariardn) with ❤️
+  ⭐️ From ariardn with ❤️
   
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
   
