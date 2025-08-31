@@ -5,7 +5,7 @@
 ```javascript
 const developer = {
     name: "Your Name",
-    location: "Your City, Country",
+    location: "Pacitan, Indonesia",
     role: "Full Stack Developer",
     languages: ["JavaScript", "Python", "Java", "TypeScript"],
     technologies: {
@@ -56,22 +56,13 @@ const developer = {
 
 </div>
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-1&theme=tokyonight)](https://github.com/your-username/project-1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-2&theme=tokyonight)](https://github.com/your-username/project-2)
-
-</div>
-
 ## 🎯 Current Goals
 
 - 🌱 Learning **Rust** and **Go**
 - 🔭 Working on **AI/ML projects**
 - 👯 Looking to collaborate on **Open Source projects**
 - 💬 Ask me about **React, Node.js, or anything tech!**
-- 📫 How to reach me: **your.email@gmail.com**
+- 📫 How to reach me: **ariardana192@gmail.com**
 - ⚡ Fun fact: **I think debugging is like being a detective in a crime movie where you are also the murderer**
 
 ## 📊 Weekly Development Breakdown
