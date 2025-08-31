@@ -10,7 +10,7 @@ const developer = {
     languages: ["JavaScript", "Python", "Java", "TypeScript"],
     technologies: {
         frontend: ["React", "Vue.js", "Next.js", "Tailwind CSS"],
-        backend: ["Node.js", "Express", "Django", "Spring Boot"],
+        backend: ["Node.js", "Express", "Django", "Golang"],
         databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
         cloud: ["AWS", "Google Cloud", "Docker", "Kubernetes"],
         tools: ["Git", "VS Code", "Postman", "Figma"]
@@ -58,8 +58,8 @@ const developer = {
 
 ## 🎯 Current Goals
 
-- 🌱 Learning **Rust** and **Go**
-- 🔭 Working on **AI/ML projects**
+- 🌱 Learning **NodeJs** and **Go**
+- 🔭 Working on **WebDev projects**
 - 👯 Looking to collaborate on **Open Source projects**
 - 💬 Ask me about **React, Node.js, or anything tech!**
 - 📫 How to reach me: **ariardana192@gmail.com**
@@ -69,8 +69,8 @@ const developer = {
 
 ```text
 JavaScript   12 hrs 30 mins  ████████████████████░   80.0%
-Python       2 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░   15.0%
-TypeScript   45 mins         ██░░░░░░░░░░░░░░░░░░░    5.0%
+TypeScript       2 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░   15.0%
+Python   45 mins         ██░░░░░░░░░░░░░░░░░░░    5.0%
 ```
 
 
