@@ -58,8 +58,8 @@ const developer = {
 
 ## 🎯 Current Goals
 
-- 🌱 Learning **NodeJs** and **Go**
-- 🔭 Working on **WebDev projects**
+- 🌱 Learning **Python** and **Go**
+- 🔭 Working on **AI/ML projects**
 - 👯 Looking to collaborate on **Open Source projects**
 - 💬 Ask me about **React, Node.js, or anything tech!**
 - 📫 How to reach me: **ariardana192@gmail.com**
@@ -79,7 +79,7 @@ Python       45 mins         ██░░░░░░░░░░░░░░░
 
 <div align="center">
   
-  ⭐️ From ariardn with ❤️
+  ⭐️ From ariardana with ❤️
   
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
   
